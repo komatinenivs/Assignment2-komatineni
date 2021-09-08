@@ -31,7 +31,7 @@ Items that can be brought to my favorite place.
 [Link to AboutMe](https://github.com/komatinenivs/Assignment2-komatineni/blob/6a98963ff6726b436f1467592a6fe622e0abcb8f/AboutMe.md)
 
 
-| Food | Location | Money |
+## | Food | Location | Money |
 |:----:| :---: | :---:|
 | Mysorepak| Ongole | $ 25 |
 
