@@ -18,11 +18,15 @@ But there’s more than just cows for you to see here. A beautiful, **albeit sma
  4. . From Doha take a flight to Hyderabad Airport
     1. from Hyderabad take a car to Ongole City
 
+Items that can be brought to my favorite place.
+
 - Credit and Debit Card
 - Cash
 - Cricket bat
 - ball
 - Cotton clothes
+
+
 
 
 
