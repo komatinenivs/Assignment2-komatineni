@@ -7,3 +7,11 @@ my second assignment.
     
 
 ***
+
+## directions from Maryville to India
+ 
+ 1. Take a cab from Maryville to Kansas city
+ 2. take a flight from kansas airport to chicago airport
+ 3. From chicago take a flight to Doha Airport
+ 4. From Doha take a flight to India
+ 
