@@ -34,6 +34,9 @@ Items that can be brought to my favorite place.
 | Food | Location | Money |
 |:----:| :---: | :---:|
 | Mysorepak| Ongole | $ 25 |
+| Ismail Biryani | Ongole| $ 50 |
+| pakodi | Santhapet| $ 20 |
+| Samosa| Ongole| $ 10 |
 
 
 
