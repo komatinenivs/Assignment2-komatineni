@@ -50,9 +50,9 @@ Items that can be brought to my favorite place.
 
 ## Code Fencing
 
-This is easy to do if we go through all edges and add trapezoid areas bounded by each edge and x-axis. The area needs to be taken with sign so that the extra area will be reduced. 
+>This is easy to do if we go through all edges and add trapezoid areas bounded by each edge and x-axis. The area needs to be taken with sign so that the extra area will be reduced. 
 
-[link](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
+[ Wiki link](https://www.wikihow.com/Calculate-the-Area-of-a-Polygon#:~:text=To%20find%20the%20area%20of%20a%20regular%20polygon%2C%20all%20you,is%20perpendicular%20to%20that%20side)
 
 double area(const vector<point>& fig) {  
     double res = 0;  
