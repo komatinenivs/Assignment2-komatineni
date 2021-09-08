@@ -17,3 +17,12 @@ But there’s more than just cows for you to see here. A beautiful, **albeit sma
  3. From chicago take a flight to Doha Airport
  4. . From Doha take a flight to Hyderabad Airport
     1. from Hyderabad take a car to Ongole City
+
+- Credit and Debit Card
+- Cash
+- Cricket bat
+- ball
+- Cotton clothes
+
+
+
