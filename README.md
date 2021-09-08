@@ -32,8 +32,8 @@ Items that can be brought to my favorite place.
 
 
 ## | Food | Location | Money |
-|:----:| :---: | :---:|
-| Mysorepak| Ongole | $ 25 |
+   |:----:| :---: | :---:|
+   | Mysorepak| Ongole | $ 25 |
 
 
 
