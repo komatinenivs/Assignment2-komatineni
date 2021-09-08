@@ -46,6 +46,25 @@ Items that can be brought to my favorite place.
 
 >"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”  *Albert Einstein*
 
+***
+
+## Code Fencing
+
+This is easy to do if we go through all edges and add trapezoid areas bounded by each edge and x-axis. The area needs to be taken with sign so that the extra area will be reduced. 
+
+[link](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
+
+double area(const vector<point>& fig) {  
+    double res = 0;  
+    for (unsigned i = 0; i < fig.size(); i++) {  
+        point p = i ? fig[i - 1] : fig.back();  
+        point q = fig[i];  
+        res += (p.x - q.x) * (p.y + q.y);  
+    }  
+    return fabs(res) / 2;  
+}  
+
+[link](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
 
 
 
