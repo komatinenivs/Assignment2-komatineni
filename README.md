@@ -26,6 +26,10 @@ Items that can be brought to my favorite place.
 - ball
 - Cotton clothes
 
+![MyImage](mrbean.jpg)
+
+[Link to AboutMe](https://github.com/komatinenivs/Assignment2-komatineni/blob/6a98963ff6726b436f1467592a6fe622e0abcb8f/AboutMe.md)
+
 
 
 
