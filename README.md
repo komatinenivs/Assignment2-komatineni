@@ -54,15 +54,15 @@ Items that can be brought to my favorite place.
 
 [ Wiki link](https://www.wikihow.com/Calculate-the-Area-of-a-Polygon#:~:text=To%20find%20the%20area%20of%20a%20regular%20polygon%2C%20all%20you,is%20perpendicular%20to%20that%20side)
 
-double area(const vector<point>& fig) {  
-    double res = 0;  
-    for (unsigned i = 0; i < fig.size(); i++) {  
-        point p = i ? fig[i - 1] : fig.back();  
-        point q = fig[i];  
-        res += (p.x - q.x) * (p.y + q.y);  
+    double area(const vector<point>& fig) {  
+        double res = 0;  
+        for (unsigned i = 0; i < fig.size(); i++) {  
+            point p = i ? fig[i - 1] : fig.back();  
+            point q = fig[i];  
+            res += (p.x - q.x) * (p.y + q.y);  
+        }  
+        return fabs(res) / 2;  
     }  
-    return fabs(res) / 2;  
-}  
 
 [link](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
 
